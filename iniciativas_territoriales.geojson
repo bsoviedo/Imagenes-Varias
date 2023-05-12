@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Vía Campesina (Mundial)",
+      "descripcion":"Se compone de campesinos y campesinas, agricultores pequeños y medianos, sin tierra, jóvenes y mujeres rurales, indígenas, migrantes y trabajadores agrícolas de todas las regiones del mundo. Su principal apuesta es por la soberanía alimentaria, la cual se entiende como “el derecho de cada nación para mantener  y desarrollar su propia capacidad para producir los alimentos básicos de los pueblos respetando la diversidad productiva y cultural. Tenemos el derecho a producir nuestros propios alimentos en nuestro propio territorio. La Soberanía Alimentaria es una precondición para la seguridad alimentaria genuina.” A razón de la mercantilización de la alimentación con la agroindustria, el agronegocio que emplea agrotóxicos y va contra la vida, la abatida de la Organización Mundial del Comercio OMC con las políticas neoliberales que han diezmado las economías rurales, empeorado la deuda rural y agravado el hambre en el mundo; y el patriarcado, que está profundamente arraigado: está en nuestras culturas religiosas, nuestras tradiciones y comunidades. Esta estructura jerarquiza hombres y mujeres, lo que ha llevado al movimiento a enfrentarlo en todos lados, desde una multiplicidad de maneras. De igual forma, sus ejes de lucha son:- La soberanía alimentaria - La agroecología y las semillas campesinas -Los derechos de las campesinas y los campesinos -La tierra, el agua y los territorios con una campaña global por la reforma agraria -La justicia climática y medio ambiental -La solidaridad con los y las trabajadores emigrantes y asalariados/as -La solidaridad internacionalista",
+      "web":"https://viacampesina.org/es/",
+       "redes":{
+         "twitter":"https://twitter.com/via_campesinaSP",
+         "facebook":"https://www.facebook.com/viacampesinaOFFICIAL",
+         "instagram":"https://www.instagram.com/la_via_campesina_official/ "
+}
+      },
+      "geometry": {
+        "coordinates": [
+        2.42014, 48.86068
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Coordinadora Latinoamericana de Organizaciones del Campo CLOC-Vía Campesina (Regional)",
+        "descripcion":"Es la articulación que representa a movimientos campesinos, de trabajadores y trabajadoras, indígenas y afrodescendientes de toda América Latina. Su lucha es por los derechos humanos, económicos, culturales, sociales y políticos de los pueblos en defensa de la producción y vida campesina. Desde la lucha de clases, buscan lograr una sociedad democrática y plural sin explotados ni explotadores, soberana e independiente. La CLOC es el referente directo de La Vía Campesina Internacional en América Latina y el Caribe, e impulsa la lucha contra las transnacionales, los agronegocios, los modelos extractivistas y la explotación agrícola que atentan contra la vida, los derechos campesinos y la naturaleza, el patriarcado y el capitalismo. Sus banderas de lucha son: Reforma agraria integral y popular Soberanía alimentaria con base en la agroecología Defensa de los derechos humanos en los territorios y la implementación de la Declaración de Derechos Campesinos Protagonismo de las mujeres y el feminismo campesinos y popular Construcción de alianzas de organizaciones de otros sectores Solidaridad militante e internacionalista Juventud Formación política, ideológica y técnica",
+      "web":" https://cloc-viacampesina.net/",
+       "redes":{
+         "twitter":"https://twitter.com/cloc_lvc",
+         "facebook":"https://www.facebook.com/cloc.viacampesina/",
+         "flickr":"https://www.flickr.com/people/98630161@N02/"
+}
+      },
+      "geometry": {
+        "coordinates": [
+        -86.26631,12.12917
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+       "categoria":"agroecologia",
+        "titulo":"Red Internacional de huertos escolares (Regional)",
+"descripcion":"Es una agrupación internacional y horizontal de personas e iniciativas comprometidas con los huertos escolares como espacios de aprendizaje. Esta incluye escuelas públicas y privadas, agrupaciones de la sociedad civil, académicos y académicas, entre otros. Su objetivo es que exista una educación que promueva el pensamiento crítico, la creatividad, la salud y la buena alimentación, además de la (re)conexión con la naturaleza y con la sabiduría de quienes nos alimentan. La Red de Huertos Escolares (RHE) impulsa el intercambio de conocimientos, experiencias y materiales didácticos relevantes a los huertos escolares, además crea oportunidades para la capacitación de personas involucradas en dichas iniciativas.",
+        "web":" https://www.redhuertos.org/",
+       "redes":{
+         "facebook":" https://www.facebook.com/redhuertos/?fref=ts"
+}
+      },
+      "geometry": {
+        "coordinates": [
+        -92.61559,16.70509
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Cooperativa de trabajo semilla austral (Chile)",
+"descripcion":"Nace en 2014 en la Región de Los Ríos. Está conformada por 34 familias/organizaciones localizadas en 10 regiones de Chile. Trabajan por la recuperación, regeneración y dinamización de la biodiversidad, las culturas, tradiciones y conocimientos asociados a la agricultura familiar campesina. Dentro de sus principios están: Cultura de paz y no violencia, Interdependencia, Reciprocidad y Solidaridad.",
+        "web":"https://semilla-austral.coop/",
+       "redes":{
+         "facebook":"https://www.facebook.com/itrofilmongen?_rdc=1&_rdr",
+         "instagram":"https://www.instagram.com/semilla_austral.coop/"
+}
+      },
+      "geometry": {
+        "coordinates": [
+        -73.24253,-39.81737
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Iniciativa agroalimentaria guaraní “AMANDIYA” (Bolivia)",
+        "descripcion":"Las comunidades del Ingre del municipio de Monteagudo, con la consolidación de su empresa comunitaria Amandiya apuntan no solo a generar fuentes de trabajo y economía en las familias, sino además proteger la biodiversidad que brinda el territorio guaraní ingreño, de donde mujeres y niños recolectan frutos silvestres que son procesados en la planta Amandiya para vender productos innovadores y saludables, entre ellos la cosecha de guayabillas en el monte de Chuquisaca se ha convertido en un fruto que en la temporada se lo utiliza para múltiples usos alimenticios, y a su vez, está la cosecha de maíz, algarrobo son las alternativas para promover alternativas de desarrollo ante un problema alimenticio.",
+        "web":"https://www.irfabolivia.org/9983-2/",
+       "redes":{
+         "facebook":"https://www.facebook.com/amandiya.monteagudo.7"
+}
+      },
+      "geometry": {
+        "coordinates": [
+         -63.15608,-17.81458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Movimiento Agroecológico Boliviano (MAB)",
+      "descripcion":"El Movimiento Agroecológico Boliviano (MAB) es una alianza por la vida, conformada por organizaciones de la sociedad civil, colectivos ciudadanos, y otras formas de representación que comparten una visión holística de vida en sociedad y de los productores, productoras y consumidores en los sistemas alimentarios, con criterios de corresponsabilidad en todos los ámbitos de la vida.",               
+        "redes":{
+         "facebook":"https://www.facebook.com/MovimientoAgroecologicoBoliviano",
+          "mail":"Movimiento.Agroecologico.Bol@gmail.com"
+}
+      },
+      "geometry": {
+        "coordinates": [
+          -68.11929,-16.48968
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Movimiento Agroecológico Boliviano (MAB)",
+"descripcion":"Es un espacio de organizaciones locales y sociales, abierto y descentralizado donde convergen comunidades campesinas, indígenas, afrocolombianas y de pequeños productores, agricultores urbanos, ONG, grupos académicos, colectivos artísticos y consumidores. Se articula en el ámbito local, regional y nacional de Colombia; y busca promover acciones e iniciativas para fortalecer el control local de las semillas y su defensa frente a las políticas y leyes que permiten la privatización y el control monopólico de las semillas, que amenazan la soberanía y autonomía alimentaria de los pueblos. La Red de Semillas Libres, promueve y visibiliza los procesos locales de recuperación, manejo y libre circulación de semillas, difunde información y promueve acciones de incidencia frente a las políticas y leyes que permiten la privatización de las semillas, la expansión de la agricultura corporativa y los cultivos transgénicos, que amenazan los sistemas vivos de semillas y la soberanía y autonomía alimentaria de los pueblos y comunidades en Colombia. Sus objetivos son: Promover iniciativas locales de recuperación, conservación, producción de semillas criollas Realizar investigación local participativa y circulación de semillas criollas en las comunidades locales y en diferentes regiones del país. Articular iniciativas de defensa de las semillas, en los ámbitos local, regional y nacional, frente a la privatización y control corporativo de las semillas. Comunicar y difundir información sobre los problemas y las alternativas alrededor de la defensa de las semillas nativas y criollas. Incidir en favor de políticas públicas que permitan proteger y defender las semillas libres y criollas. Aportar en la construcción de la soberanía y autonomía alimentaria, la economía local, la agroecología y los sistemas de cultivo y conocimiento tradicionales y ancestrales, y el aprovisionamiento de semillas y alimentos locales.",       
+        "web":"https://www.redsemillaslibres.co/",
+        "redes":{
+         "facebook":"https://www.facebook.com/RedSemillasLibresColombia/",
+          "twitter":"https://twitter.com/SemillasRed"
+}
+      },
+      "geometry": {
+        "coordinates": [
+           -74.07307,4.61391
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Alianza por la agrobiodiversidad (Colombia) ",
+"descripcion":"Nace en 2017 por la confluencia de ONG de cooperación internacional y nacional, academia, redes, plataformas y organizaciones campesinas y étnicas. Su objetivo es el intercambio, el diálogo y la incidencia política con el objetivo de fortalecer procesos organizativos étnicos y campesinos de protección, defensa y promoción de las semillas criollas y nativas como bienes comunes de los pueblos. Así mismo, buscan consolidar sistemas de producción basados en la agrobiodiversidad, el derecho humano a la alimentación y la soberanía alimentaria; las estrategias colectivas de manejo, cuidado y protección de los territorios; el reconocimiento del campesinado como sujeto político de derechos; las propuestas de agricultura campesina, familiar y comunitaria y como enfoque de adaptación y mitigación a las crisis climáticas y agroalimentarias.",       
+        "web":"https://alianzaporlaagrobiodiversidad.semillas.org.co/",
+        "redes":{
+         "facebook":"https://www.facebook.com/GrupoSemillasColombia/",
+          "twitter":"https://twitter.com/Semillas2"
+}
+      },
+      "geometry": {
+        "coordinates": [
+            -74.05934,4.62349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Red de Guardianes de Semillas (Ecuador)",
+"descripcion":"Nace en 2002 como una red de personas que trabajan en permacultura, agroecología y bioconstrucción por la soberanía alimentaria, la economía solidaria, alternativas en educación y tecnologías apropiadas. Cuentan con 100 familias de Guardianes en Ecuador, repartidas en 15 provincias. Entre sus actividades cuidan e intercambian la mayor diversidad de semillas, comparten saberes entre pares de conocimiento y experiencias dentro de la práctica de permacultura y agroecología.",
+        "web":"https://redsemillas.org/quienes-somos/"
+      },
+      "geometry": {
+        "coordinates": [
+           -78.46783,-0.18065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "categoria":"agroecologia",
+        "titulo":"Colectivo Agroecológico del Ecuador",
+"descripcion":"Es una red articulada y coordinada que desde 2008 reúne a organizaciones, asociaciones y grupos de agricultoras, agricultores, consumidoras y consumidores agroecológicos, los cuales trabajan por la soberanía alimentaria en el Ecuador. Para sus integrantes la agroecología es: “nuestra forma de vida familiar y comunitaria donde el saber ancestral desarrollado y recuperado por nuestros pueblos, inspirado en los ciclos de la naturaleza y en diálogo con conocimientos nuevos, nos permite alcanzar una producción adecuada, una salud plena, un equilibrio y convivencia armónica entre seres humanos y naturaleza. Trabajando en colectivo, construyendo equidad de género y generacional, el campo y la ciudad se unen fraternalmente, con reciprocidad y solidaridad, a través de nuevos circuitos de mercados justos. La agroecología permite alcanzar la soberanía alimentaria, recuperar el control sobre nuestros recursos y nuestro esfuerzo. Así caminamos a la liberación de todos los pueblos.”",
+        "web":"https://colectivoagroecologico.org/ ",
+        "redes":{
+        "facebook":"https://www.facebook.com/colectivoagroecologicoec/",
+          "twitter":"https://twitter.com/ColectivoAgroEc"
+        }
+      },
+      "geometry": {
+        "coordinates": [
+            -78.47723,-0.20925
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
