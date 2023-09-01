@@ -1,0 +1,295 @@
+.mandatum-sustainability-page {
+  height: 2600px;
+}
+
+.mandatum-text-container {
+  margin: 50px 10% 100px;
+  height: 500px;
+}
+
+.mandatum-suspage-banner .header-title {
+  font-size: 50px;
+}
+
+.mandatum-suspage-banner .header-subtitle {
+  font-size: 50px;
+}
+
+.mandatum-suspage-banner {
+  height: 300px;
+}
+
+.mandatum-suspage-banner .image-container {
+  height: 300px;
+}
+
+.slideshow-container {
+  margin: 5%;
+}
+
+.mandatum-image-container .image-container {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.mandatum-suspage-carousel {
+  height: 600px;
+}
+
+.mandatum-suspage-banner .container-left {
+  width: 90%;
+  left: 50%;
+}
+
+.mandatum-suspage-banner .mandatum-source {
+  left: 50%;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+/* Mobile version */
+@media only screen and (min-width: 500px) {
+  /* SUSPAGE*/
+.template-page .main-content .row {
+  max-width: 100%;
+}
+
+.template-page .main-content .row.single-column {
+  max-width: 100%;
+}
+
+.mandatum-sustainability-page {
+  height: 4000px;
+}
+
+.mandatum-text-container {
+  margin: 50px 15%;
+  height: 250px;
+}
+
+.mandatum-suspage-row { 
+  display: flex;
+}
+
+.mandatum-suspage-row .column {
+  flex: 50%;
+}
+
+.mandatum-suspage-body {
+  position: absolute;
+  left: 0;
+}
+
+.mandatum-suspage-body .row {
+  content: "";
+  clear: both;
+  display: flex;
+}
+
+.mandatum-suspage-banner {
+  height: 400px;
+  position: relative;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.mandatum-suspage-carousel {
+  height: 575px;
+  position: relative;
+  text-align: center;
+  margin: 30px 0px 0px;
+  padding: 0px;
+}
+
+.mandatum-suspage-banner .image-container {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: 0% 5%;
+}
+
+.mandatum-suspage-banner .header-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 150px;
+  text-align: center;
+}
+
+.mandatum-suspage-banner .header-subtitle {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  text-align: center;
+}
+
+.mandatum-suspage-banner .mandatum-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  transform: translate(-50%, -50%);
+}
+
+.mandatum-suspage-banner .mandatum-source {
+  position: absolute;
+  bottom: 0%;
+  left: 85%;
+}
+
+.mandatum-suspage-banner .container-left {
+  position: absolute;
+  width: 50%;
+  top: 45%;
+  left: 75%;
+  transform: translate(-50%, 0%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  margin: 0 20%;
+  /* max-width: 1000px;
+  position: relative;
+  margin: auto;
+  float:left
+  
+  */
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Image container */
+.mandatum-image-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom right text */
+.mandatum-image-container .bottom-center {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Bottom right text */
+.mandatum-image-container .middle-center {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mandatum-image-container .image-container {
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+
+/* Next & previous buttons */
+.prev-slide,
+.next-slide {
+  cursor: pointer;
+  /*position: absolute;
+  top: 50%;*/
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+  background-color: #717171;
+}
+}
+
+
+
+/*medium screens*/
+@media only screen and (min-width: 1200px) {
+
+  .mandatum-sustainability-page {
+    height: 3600px;
+  }
+}
+
+/*big screens*/
+@media only screen and (min-width: 1500px) {
+
+  .mandatum-sustainability-page {
+    height: 4200px;
+  }
+}
