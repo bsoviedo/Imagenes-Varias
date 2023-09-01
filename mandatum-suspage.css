@@ -46,6 +46,41 @@
   left: 50%;
 }
 
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+/* Mobile version */
+@media only screen and (min-width: 500px) {
+  /* SUSPAGE*/
+.template-page .main-content .row {
+  max-width: 100%;
+}
+
+.template-page .main-content .row.single-column {
+  max-width: 100%;
+}
+
+.mandatum-sustainability-page {
+  height: 4000px;
+}
+
+.mandatum-text-container {
+  margin: 50px 15%;
+  height: 250px;
+}
 
 .mandatum-suspage-row { 
   display: flex;
@@ -124,44 +159,6 @@
   left: 75%;
   transform: translate(-50%, 0%);
 }
-
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {
-    opacity: 0.4;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-
-/* Mobile version */
-@media only screen and (min-width: 500px) {
-  /* SUSPAGE*/
-.template-page .main-content .row {
-  max-width: 100%;
-}
-
-.template-page .main-content .row.single-column {
-  max-width: 100%;
-}
-
-.mandatum-sustainability-page {
-  height: 4000px;
-}
-
-.mandatum-text-container {
-  margin: 50px 15%;
-  height: 250px;
-}
-
 
 * {
   box-sizing: border-box;
