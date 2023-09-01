@@ -63,7 +63,7 @@
 
 
 /* Mobile version */
-@media only screen and (min-width: 500px) {
+@media only screen and (min-width: 700px) {
   /* SUSPAGE*/
 .template-page .main-content .row {
   max-width: 100%;
