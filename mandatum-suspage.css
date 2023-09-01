@@ -1,5 +1,6 @@
 .mandatum-sustainability-page {
   height: 2600px;
+  background-color: red;
 }
 
 .mandatum-text-container {
@@ -65,6 +66,12 @@
 /* Mobile version */
 @media only screen and (min-width: 500px) {
   /* SUSPAGE*/
+
+  .mandatum-sustainability-page {
+    height: 2600px;
+    background-color: yellow;
+  }
+
 .template-page .main-content .row {
   max-width: 100%;
 }
